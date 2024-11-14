@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="slf4j-api-2.0.16">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Common Files/Oracle/Java/slf4j-api-2.0.16.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Common Files/Oracle/Java/slf4j-simple-2.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-2.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-simple-2.0.16.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
