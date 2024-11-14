@@ -18,7 +18,6 @@
       <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Common Files/Oracle/Java/slf4j-api-2.0.16.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Common Files/Oracle/Java/slf4j-simple-2.0.16.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Common Files/Oracle/Java/jcalendar-1.4/lib/jcalendar-1.4.jar" path-in-jar="/" />
-      <element id="library" level="project" name="json-20170516-javadoc" />
     </root>
   </artifact>
 </component>
